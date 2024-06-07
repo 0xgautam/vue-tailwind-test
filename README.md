@@ -1,4 +1,4 @@
-I have completed the requirements and create a intuitive UI for the left panel. I took the liberty and added Google Material fonts to the project
+I have built a intuitive UI for the left panel of a AI chat interface using VueJs.
 
 Users can :
 
