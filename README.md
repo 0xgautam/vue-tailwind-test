@@ -7,3 +7,5 @@ Users can :
 - Delete Chats
 - Toggle between chats
 - Add API / License keys
+
+![Screenshot of the UI](./screenshot.png)
